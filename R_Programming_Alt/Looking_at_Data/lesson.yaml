@@ -1,13 +1,16 @@
 - Class: meta
-  Course: R Programming
-  Lesson: Looking at Data
+  Course: Programação em R
+  Lesson: Explorando dados
   Author: Nick Carchedi
   Type: Standard
   Organization: JHU Biostat
   Version: 2.2.11
 
 - Class: text
-  Output: Whenever you're working with a new dataset, the first thing you should do is look at it! What is the format of the data? What are the dimensions? What are the variable names? How are the variables stored? Are there missing data? Are there any flaws in the data?
+  Output: Toda a vez que você estiver trabalhando em um novo banco de dados, a primeira coisa que você deve
+  fazer é olhar os dados. Qual é a formatação dos dados? Quais são suas dimensões? Qual são os nomes das variáveis?
+  Whenever you're working with a new dataset, the first thing you should do is look at it! 
+  What is the format of the data? What are the dimensions? What are the variable names? How are the variables stored? Are there missing data? Are there any flaws in the data?
 
 - Class: text
   Output: This lesson will teach you how to answer these questions and more using R's built-in functions. We'll be using a dataset constructed from the United States Department of Agriculture's PLANTS Database (http://plants.usda.gov/adv_search.html).
